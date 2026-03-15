@@ -8,7 +8,7 @@ This repository documents my journey of learning Go (Golang) with the assistance
 
 A simple command-line todo list application demonstrating basic Go concepts like structs, slices, and user input handling.
 
-![alt text](references/image.png)
+![Todo CLI running example](references/image.png)
 
 ## Repository Structure
 
